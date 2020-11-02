@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css.css">
+
+</head>
+<body>
+<form>
+    <fieldset>
+        <h1>Personal Information</h1>
+        <input type="text" id="name" placeholder="Fullname"> <br><br>
+        <input type="text" id="gender" placeholder="Gender"> <br><br>
+        <input type="number" id="taxcode" placeholder="Taxcode"> <br><br>
+        <input type="text" id="ranking" placeholder="Ranking"> <br><br>
+        <input type="number" id="seniority"placeholder="Seniority"> <br><br>
+        <input type="text" id="image"placeholder="Image Link"> <br><br>
+
+        <button type="button" onclick="addPerson()" >Add</button>
+    </fieldset>
+</form>
+
+<form >
+    <fieldset>
+        <h1>Edit Personal Information</h1>
+        <input type="text" id="edit-name" placeholder="Fullname"> <br><br>
+        <input type="text" id="edit-gender" placeholder="Gender"> <br><br>
+        <input type="number" id="edit-taxcode" placeholder="Taxcode"> <br><br>
+        <input type="text" id="edit-ranking" placeholder="Ranking"> <br><br>
+        <input type="number" id="edit-seniority"placeholder="Seniority"> <br><br>
+        <input type="text" id="edit-image"placeholder="Image Link"> <br><br>
+        <button type="button" onclick="updatePerson()">Update</button>
+    </fieldset>
+</form>
+<br><br>
+
+<table border="1" width="1500px" cellpadding="10px" cellspacing="0px" >
+    <tr>
+        <th>ID</th>
+        <th>Image</th>
+        <th>Fullname</th>
+        <th>Gender</th>
+        <th>Taxcode</th>
+        <th>Ranking</th>
+        <th>Seniority</th>
+        <th colspan="2">Action</th>
+    </tr>
+    <tbody id="table-render">
+    </tbody>
+
+</table>
+<script src="ClassPersonel.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>
