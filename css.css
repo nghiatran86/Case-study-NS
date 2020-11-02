@@ -40,3 +40,11 @@ td{
     font-weight: bold;
     background: snow;
 }
+
+@media only screen and (min-width: 600px) {
+    form{
+        display: inline-block;
+
+    }
+
+}

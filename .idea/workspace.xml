@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54c95665-7fcf-4c99-8ca4-1d9a22daf598" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/admin/admin-js/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/admin/admin-js/book.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/home/Home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/home/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hung-casestudy/Case-Study-Module1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hh-casestudy/Case-Study-Module1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jUX2vKVrfpZt3nTZ2ro7dhLntA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,6 +79,7 @@
       <workItem from="1604032189978" duration="696000" />
       <workItem from="1604040198783" duration="4451000" />
       <workItem from="1604280018687" duration="6407000" />
+      <workItem from="1604299308006" duration="1027000" />
     </task>
     <servers />
   </component>
